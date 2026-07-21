@@ -47,4 +47,15 @@ To become a Java Full Stack Developer and build real-world scalable applications
 
 ⭐ Thanks for visiting my profile!
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pandeytrayambak1519&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandeytrayambak1519&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pandeytrayambak1519&theme=tokyonight"/>
+</p>
+
 
