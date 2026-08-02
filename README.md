@@ -78,6 +78,14 @@ To become a Java Full Stack Developer and build real-world scalable applications
 </p>
 
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pandeytrayambak1519&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+
+
 ## 📫 Connect With Me
 
 <p align="center">
@@ -91,4 +99,5 @@ To become a Java Full Stack Developer and build real-world scalable applications
 </a>
 
 </p>
+
 
