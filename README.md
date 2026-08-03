@@ -22,9 +22,20 @@ I'm passionate about building scalable web applications using Java, Spring Boot,
 ### 🔐 LastKey
 A secure digital legacy management platform built with Spring Boot, React, JWT Authentication, and PostgreSQL.
 
-### 💰 AI Expense Manager
-An OCR-powered expense tracker with budget management, receipt scanning, and analytics using Spring Boot, React, and PostgreSQL.
+🔗 Frontend Repository: https://github.com/pandeytrayambak1519/lastkey-frontend
+
+🔗 Backend Repository: https://github.com/pandeytrayambak1519/lastkey-backend
+
 ---
+
+### 💰 AI Expense Manager
+
+An OCR-powered expense tracker with budget management, receipt scanning, and analytics using Spring Boot, React, and PostgreSQL.
+
+🔗 Frontend Repository: https://github.com/pandeytrayambak1519/AI-Expense-Manager-Frontend
+
+🔗 Backend Repository: https://github.com/pandeytrayambak1519/AI-Expense-Manager-Backend
+
 
 ## 🌱 Currently Learning
 
